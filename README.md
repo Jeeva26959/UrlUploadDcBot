@@ -27,7 +27,7 @@ Bot using pyrogram libray!
 <p>
 <p>browse bellow link with your forked link</p>
 
-<img src="https://www.herokucdn.com/deploy/button.svg" href="https://heroku.com/deploy?template=https://github.com/selfie-bd/UrlUploadDcBot">
+<img src="https://www.herokucdn.com/deploy/button.svg" href="https://heroku.com/deploy?template=https://github.com/Jeeva26959/UrlUploadDcBot">
 </p>
 </details>
 
@@ -37,8 +37,8 @@ Bot using pyrogram libray!
 # Fork Repo
 # Edit Uploader/config.py with variables
 
-git clone <YOUR_REPO_LINK>
-cd <YOUR_REPO_NAME> 
+git clone <https://github.com/Jeeva26959/UrlUploadDcBot>
+cd <UrlUploadDcBot> 
 pip3 install -U -r requirements.txt
 python bot.py
 </pre>
